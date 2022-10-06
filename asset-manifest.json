@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TvMaze_project/static/css/main.c9d303c1.css",
+    "main.js": "/TvMaze_project/static/js/main.ff20add5.js",
+    "static/js/787.0b157353.chunk.js": "/TvMaze_project/static/js/787.0b157353.chunk.js",
+    "static/media/tvm_api.png": "/TvMaze_project/static/media/tvm_api.2dcb6eb7bb62fd8e8df4.png",
+    "index.html": "/TvMaze_project/index.html",
+    "main.c9d303c1.css.map": "/TvMaze_project/static/css/main.c9d303c1.css.map",
+    "main.ff20add5.js.map": "/TvMaze_project/static/js/main.ff20add5.js.map",
+    "787.0b157353.chunk.js.map": "/TvMaze_project/static/js/787.0b157353.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9d303c1.css",
+    "static/js/main.ff20add5.js"
+  ]
+}
